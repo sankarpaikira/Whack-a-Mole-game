@@ -5,6 +5,225 @@
 
 ---
 
+<details>
+<summary><strong>Click to expand the roadmap</strong></summary>
+
+---
+
+## 📌 Introduction
+
+Here is your updated, comprehensive 2-month roadmap. I have dedicated the first 2 weeks entirely to foundational basics to ensure you have a rock-solid start before moving into advanced topics.
+
+---
+
+Below is the complete text version structured for easy reading, followed by a downloadable PDF version generated for you.
+
+---
+
+# 🧠 Phase 1: Month 1 — Basics, Core Frameworks, & Daily Problem Solving
+
+---
+
+## 📚 Week 1: Core Programming Basics (Python & JavaScript)
+
+### Concepts
+- Variables
+- Data types
+- Loops
+- Conditionals
+- Functions
+- Scopes
+- Error handling
+
+### 🐍 Python Basics
+- Lists
+- Dictionaries
+- List Comprehensions
+- File I/O
+- Object-Oriented Programming (OOP) classes
+
+### ⚡ JS/TS Basics
+- ES6+ syntax
+  - Arrow functions
+  - Destructuring
+  - Spread operators
+- Promises
+- Async/Await
+
+### 💻 Daily Practice
+Spend 1 hour daily on HackerRank or Exercism (Python/JavaScript tracks) solving basic syntax exercises.
+
+---
+
+## 🌐 Week 2: Web Fundamentals (HTML, CSS, & Git)
+
+### HTML5 & CSS3
+- Semantic elements
+- Flexbox
+- Grid
+- CSS Variables
+- Responsive media queries
+
+### 🔧 Git Basics
+- Repositories
+- Cloning
+- Staging (`git add`)
+- Committing (`git commit`)
+- Pushing (`git push`)
+- Branching
+
+### 💻 Daily Practice
+Build a simple, responsive profile page using raw HTML/CSS.
+
+Commit your code to GitHub daily using clear commit messages.
+
+---
+
+# 🎯 Weeks 3 & 4 Daily Routine (Moving forward)
+
+| Time | Activity |
+|---|---|
+| 🌅 Morning (1 hour) | 1–2 LeetCode problems (Arrays, Strings, Hash Maps) |
+| 🌙 Evening (2 hours) | Concept learning and hands-on coding |
+
+---
+
+## 🐍 Week 3: Backend Frameworks (FastAPI)
+
+### Concepts
+- HTTP methods
+  - GET
+  - POST
+  - PUT
+  - DELETE
+- Status codes
+- JSON handling
+- Query/Path parameters
+
+### 🛠️ Tech to Learn
+FastAPI (Python)
+
+### 💡 Mini Project
+Build a basic REST API that handles a list of items in memory.
+
+### 📖 Practice Platform
+LeetCode (Easy) using Python to build algorithmic logic.
+
+---
+
+## 🎨 Week 4: Modern Frontend (React + TypeScript)
+
+### Concepts
+- Components
+- Props
+- State management
+- Hooks
+  - useState
+  - useEffect
+- Rendering lists
+
+### 🛠️ Tech to Learn
+React with TypeScript.
+
+Do not use vanilla JavaScript; TypeScript is preferred by HENNGE.
+
+### 📖 Practice Platform
+- GreatFrontEnd
+- BigFrontend.dev
+
+for basic TypeScript and UI component exercises.
+
+---
+
+# ⚙️ Phase 2: Month 2 — System Integration, Docker, & Portfolio
+
+---
+
+## 🐳 Week 5: Databases & Docker Containers
+
+### 🗄️ Database
+Connect your FastAPI backend to SQLite or PostgreSQL using an ORM like SQLAlchemy.
+
+### 🐳 Docker Core
+- Write a Dockerfile for your Python backend
+- Write another for your React frontend
+
+### 🔗 Docker Compose
+Create a `docker-compose.yml` file to spin up frontend, backend, and database networks instantly.
+
+### 💻 Daily DSA
+LeetCode Mediums focusing on:
+- Two Pointers
+- Sliding Window
+
+---
+
+## 🧪 Week 6: Automated Testing & Industry Standards
+
+### ✅ Testing
+- Write unit tests for your Python APIs using PyTest
+- Write component tests for React using Jest or Vitest
+
+### 🔧 Git Workflow
+Implement Conventional Commits:
+
+```bash
+feat: add login endpoint
+```
+
+### 💻 Daily DSA
+Focus on:
+- Recursion
+- Linked Lists
+- Stack
+- Queue problems
+
+---
+
+# 🏗️ Weeks 7 & 8: The Capstone Project (The HENNGE Simulation)
+
+Spend the final two weeks building a single production-grade application from scratch to present in your application.
+
+---
+
+## 🚀 The Project: An Issue/Task Tracker (Jira clone)
+
+### 📌 Technical Requirements
+
+- Secured Python FastAPI backend with JWT Token Authentication
+- React + TypeScript frontend with pristine layout design
+- Docker Compose configuration for 1-command local setup
+- Minimum 80% test coverage across both frontend and backend
+- Public GitHub repository with a detailed, professional README.md
+
+---
+
+# 💾 Download Your Updated 2-Month Roadmap PDF
+
+I have compiled this exact curriculum into a clean, printable PDF document that you can use to track your daily and weekly progress.
+
+### 📥 Download Link
+Click here to download your HENNGE Full-Stack Roadmap PDF
+
+> Note: The link above is generated inside our workspace environment. If you cannot open it directly, copy and paste the link text into your browser tab to download the PDF.
+
+---
+
+# ❓ Bonus
+
+Would you like a sample checklist of the top 15 LeetCode problems you should absolute master during your first month of preparation?
+
+</details>
+ 
+
+
+
+
+ 
+
+
+---
+
 ## 🚀 Phase 1: Month 1 — Basics & Frameworks
 
 ### 📚 Week 1: Core Programming Basics
